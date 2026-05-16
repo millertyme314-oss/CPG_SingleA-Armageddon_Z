@@ -19,7 +19,7 @@ Repository includes:
 
 2. Create your own Git branch
    - Naming convention (recommended):
-      feature/<firstname>-function
+      feature/<"firstname">-function
 
 3. Write at least one Python function
 
