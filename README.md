@@ -1,37 +1,36 @@
-# CPG_SingleA-Armageddon_Z
+# CPG/Foundations_Armageddon overview
 
-## This multi-part assignment is designed to strengthen your practical skills in:
+## This multi-part assignemnt is designed to strengthen your practical skills in:
 
- - Collaborative software development using Git and GitHub
+- Collaborative software development using Git and GitHub
 
- - Writing and deploying Linux/Bash startup scripts in a cloud environment
+- Writing and deploying Linux/Bash startup scripts in a cloud environment
 
- - Troubleshooting and debugging real codebases
+- Troubleshooting and debugging real codebases
 
-## You will complete three independent labs, each targeting a different core competency used in professional software and cloud engineering workflows.
+## You will complete 3 independent labs, each targeting a different core competency used in professional software and cloud engineering workflows. 
 
-Submission Summary
+*Submission Summary*
 
 You will submit:
-
-- Lab 1: GitHub repo link
-
-- Lab 2: Startup script + screenshots
-
-- Lab 3: Forked repo link + documentation
+  - Lab 1: GitHub repo link
+  - Lab 2: Startup script & screenshots
+  - Lab 3: Forked repo link & documentation
 
 
-# Professional Skills Reinforced
-By completing this assignment, you will practice:
+## Professional Skills Reinforced
 
-  - Git collaboration workflows
+*By completing this assignment, you will practice:*
 
-  - Branching and merge conflict resolution
+- Git collaboration workflows
 
-  - Bash scripting and Linux automation
+- Branching and merge conflict resolution
 
-  - Cloud infrastructure initialization
+- Bash scripting and Linux automation
 
-  - Debugging unfamiliar codebases
+- Cloud infrastructure initialization
 
-  - Technical documentation
+- Debugging unfamiliar codebases
+
+- Technical documentation
+
