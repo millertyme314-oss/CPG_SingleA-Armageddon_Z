@@ -31,3 +31,5 @@ Repository includes:
 
 7. Participate in resolving merge conflicts (if any)
     - No one should push directly to main EXCEPT through Pull Requests.
+
+![](https://img.freepik.com/premium-photo/green-tree-python-snake-branch-ready-attack_488145-2067.jpg)
