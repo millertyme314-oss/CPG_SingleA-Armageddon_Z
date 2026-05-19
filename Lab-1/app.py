@@ -1,4 +1,10 @@
-# Prints the greeting and title!
+# Defines and prints the greeting 
+def greet_them():
+    print("Hello, Theo Univ")
+
+greet_them()
+
+# Engages user and gives title!
 print("What's the deal? Welcome to the Dev Team Name Generator!!!")
 
 # Introduces the 1st variable in the form of the input function 
