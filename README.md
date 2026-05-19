@@ -35,5 +35,8 @@ You will submit:
 - Technical documentation
 
 
-![](https://media1.tenor.com/m/CI6sAoD2eHAAAAAd/armageddon.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/CI6sAoD2eHAAAAAd/armageddon.gif" width="800" title="hover text">
+</p>
+
 
