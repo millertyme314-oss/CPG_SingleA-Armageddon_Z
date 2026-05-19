@@ -32,4 +32,7 @@ Repository includes:
 7. Participate in resolving merge conflicts (if any)
     - No one should push directly to main EXCEPT through Pull Requests.
 
+
+![](https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejl3NDY1YXM5aHNrenc0ZXB6eW1oNWF1dnQyanpwNzlmcDB5aGppNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/UFzjusdrC1EOc/giphy.webp)
+
 ![](https://img.freepik.com/premium-photo/green-tree-python-snake-branch-ready-attack_488145-2067.jpg)
