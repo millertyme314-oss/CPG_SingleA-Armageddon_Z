@@ -39,4 +39,3 @@ You will submit:
   <img src="https://media1.tenor.com/m/CI6sAoD2eHAAAAAd/armageddon.gif" width="800" title="hover text">
 </p>
 
-
